@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.15+commit.e14f2714"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/ExampleMappingStruct.sol": "Wallet"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/ExampleMappingStruct.sol": {
+			"keccak256": "0xefc135914554d130c3c5a0e5289f8af257ad71a3665bbe1a824acf3e6e8ae4dc",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://014cde0349c02381662cc39cbab63e1dfcc5d379c1fa3e6613d300348785523c",
+				"dweb:/ipfs/QmcsqUFQ8aK4eVvnAjv7CzVcxidgBokSxST6ivKvdwpuKM"
+			]
+		}
+	},
+	"version": 1
+}
